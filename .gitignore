@@ -1,0 +1,10 @@
+.DS_Store
+
+.idea/
+
+*.py[cod]
+__pycache__/
+
+config_local.py
+
+*.log
